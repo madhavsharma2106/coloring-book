@@ -1,0 +1,22 @@
+{
+  "name": "coloring-book",
+  "version": "1.0.0",
+  "description": "A HTML based coloring book ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavsharma2106/coloring-book.git"
+  },
+  "author": "Madhav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavsharma2106/coloring-book/issues"
+  },
+  "homepage": "https://github.com/madhavsharma2106/coloring-book#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
